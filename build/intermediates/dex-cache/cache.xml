@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\HEALTHBIT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e93a24a844f92a39ee8ad84cb1f0d01f71b3cbd">
+        <dex dex="E:\HEALTHBIT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b4d79cac83447ba308526bcefbb06724c39df3f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HEALTHBIT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\HEALTHBIT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_77a44aefc35dafd2900665a3dc72fbdc8df1e7ed\classes.dex" />
+    </item>
+
+</items>

@@ -1,8 +1,0 @@
-[0321/232016.542:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
-[0321/232017.310:ERROR:crashpad_client_win.cc(652)] not connected
-[0321/232017.560:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
-[0321/232018.445:ERROR:crashpad_client_win.cc(652)] not connected
-[0321/232018.776:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
-[0321/232020.099:ERROR:crashpad_client_win.cc(652)] not connected
-[0321/232020.331:ERROR:registration_protocol_win.cc(56)] CreateFile: The system cannot find the file specified. (0x2)
-[0321/232021.490:ERROR:crashpad_client_win.cc(652)] not connected
